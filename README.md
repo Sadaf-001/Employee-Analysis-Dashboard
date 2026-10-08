@@ -24,13 +24,11 @@ Table: `HR-Employee-Attrition` (IBM HR Analytics Employee Attrition sample datas
 
 ## Files
 
-- `Employee_distribution_analysis.pbix`: the Power BI report (open with the free Power BI Desktop).
-- PDF export: https://drive.google.com/file/d/19P1U0bhMtfwf7y1iPrPrfW3Kdzuar1G5/view?usp=sharing
-
-## Note
-
-This is a descriptive analysis. The attrition-rate comparisons show associations and do not control for other factors.
+Employee_distribution_analysis.pbix: the Power BI report (open with the free Power BI Desktop).
 
 Pbix file link: https://drive.google.com/file/d/1l31fwg5M3vpmma8-3hsK9NEq4ysTWI56/view?usp=sharing
 
 PDF file link : https://drive.google.com/file/d/19P1U0bhMtfwf7y1iPrPrfW3Kdzuar1G5/view?usp=sharing
+
+##Note
+This is a descriptive analysis. The attrition-rate comparisons show associations and do not control for other factors.
